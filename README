@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3864
+
+This colorscheme is compatible in GUI and Terminal Vim.
+
+It includes some modified color highlighting for the following filetypes: HTML, CSS, JavaScript, HAML, SASS, CoffeeScript, Ruby, ZSH, and a couple others. Also adds better highlighting for diffing between files in Vim.
+
+Screenshots and FAQ available at the GitHub repo: https://github.com/mattsa/vim-eddie
